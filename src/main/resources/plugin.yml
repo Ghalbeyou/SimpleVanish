@@ -1,0 +1,4 @@
+name: MoameleVanish
+version: '${project.version}'
+main: org.ghalbeyou.moamelevanish.MoameleVanish
+api-version: '1.20'
