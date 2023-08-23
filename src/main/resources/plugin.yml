@@ -2,3 +2,7 @@ name: MoameleVanish
 version: '${project.version}'
 main: org.ghalbeyou.moamelevanish.MoameleVanish
 api-version: '1.20'
+commands:
+  vanish:
+    description: Activate or deactivate vanish
+    usage: /vanish
